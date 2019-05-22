@@ -42,7 +42,6 @@ export default {
       const text = this.text || '';
       const width = this.$el.clientWidth;
       let size = parseInt(width / text.length) || '';
-      console.log(width, text.length, size);
       size > this.maxFontSize && (size = this.maxFontSize);
       this.size = size;
     },
