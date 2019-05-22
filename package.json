@@ -1,7 +1,7 @@
 {
   "name": "@laozhao/autofontsize",
   "description": "根据元素宽度自适应文字字号大小",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "author": "laozhao",
   "homepage": "https://github.com/czhaoli/autofontsize#readme",
