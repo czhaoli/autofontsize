@@ -1,0 +1,12 @@
+{
+  "name": "autoFontSize",
+  "description": "根据元素宽度自适应文字字号大小",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": "laozhao",
+  "homepage": "",
+  "license": "MIT",
+  "repository": "",
+  "dependencies": {
+  }
+}
